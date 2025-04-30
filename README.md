@@ -28,3 +28,20 @@ This is more than just code. It's a journey written line by line, with curiosity
 
 ## 📂 Folder Structure
 
+/portfolio │ ├── /public │ └── index.html ├── /src │ ├── /components │ ├── /assets │ └── App.js └── README.md
+
+
+---
+
+## 🛠️ How to Run Locally
+
+```bash
+git clone https://github.com/hanumanthuNani/your-portfolio-repo.git
+cd your-portfolio-repo
+npm install
+npm start
+
+
+Made with ❤️ and ambition by Nani Hanumanthu
+Inspired by the spirit of creation and the vision of a better tomorrow.
+
